@@ -1,1 +1,13 @@
-
+192.168.1.100 tds-pihole01.local.teardownstudio.com
+192.168.1.101 tds-pihole02.local.teardownstudio.com
+192.168.1.11 tds-kvm02.local.teardownstudio.com
+192.168.1.13 tds-kvm04.local.teardownstudio.com
+192.168.1.20 tds-plex01.local.teardownstudio.com
+192.168.1.25 tds-plex02.local.teardownstudio.com
+192.168.1.21 tds-backup01.local.teardownstudio.com
+192.168.1.23 tds-backup02.local.teardownstudio.com
+192.168.1.10 tds-kvm01.local.teardownstudio.com
+192.168.1.12 tds-kvm03.local.teardownstudio.com
+192.168.1.22 tds-mon01.local.teardownstudio.com
+192.168.1.24 tds-backup03.local.teardownstudio.com
+192.168.1.27 tds-nas01.local.teardownstudio.com
