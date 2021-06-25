@@ -10,4 +10,6 @@
 192.168.1.12 tds-kvm03.local.teardownstudio.com
 192.168.1.22 tds-mon01.local.teardownstudio.com
 192.168.1.24 tds-backup03.local.teardownstudio.com
-192.168.1.27 tds-nas01.local.teardownstudio.com
+192.168.1.26 tds-nas01.local.teardownstudio.com
+192.168.1.27 tds-ws01.local.teardownstudio.com
+192.168.1.28 tds-mon02.local.teardownstudio.com
