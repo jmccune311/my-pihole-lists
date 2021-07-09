@@ -210,3 +210,6 @@ id,type,domain,enabled,date_added,date_modified,comment
 209,3,^mads\.,1,1624457700,1624457700,"Managed by pihole-updatelists"
 210,3,^pixels?[-.],1,1624457700,1624457700,"Managed by pihole-updatelists"
 211,3,^stat(s|istics)?[0-9]*[_.-],1,1624457700,1624457700,"Managed by pihole-updatelists"
+212,0,vortex.hulu.com,1,1625786469,1625786469,"Added from Query Log"
+213,0,ads-v-darwin.hulustream.com,1,1625786476,1625786476,"Added from Query Log"
+214,0,hulu-ios.hb-api.omtrdc.net,1,1625786481,1625786481,"Added from Query Log"
