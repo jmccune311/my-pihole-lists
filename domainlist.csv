@@ -213,3 +213,5 @@ id,type,domain,enabled,date_added,date_modified,comment
 212,0,vortex.hulu.com,1,1625786469,1625786469,"Added from Query Log"
 213,0,ads-v-darwin.hulustream.com,1,1625786476,1625786476,"Added from Query Log"
 214,0,hulu-ios.hb-api.omtrdc.net,1,1625786481,1625786481,"Added from Query Log"
+216,0,cws-hulu.conviva.com,1,1625966032,1625966032,"Added from Query Log"
+217,0,hulu.hb-api.omtrdc.net,1,1625966050,1625966050,"Added from Query Log"
